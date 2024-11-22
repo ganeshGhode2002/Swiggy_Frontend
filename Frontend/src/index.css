@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.black_overley{
+    background: rgb(0,0,0,0.7);
+}
+#hello::-webkit-scrollbar{
+    display: none;
+}
